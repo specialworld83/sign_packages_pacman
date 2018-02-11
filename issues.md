@@ -1,0 +1,2 @@
+- how strong should the key be?
+- do I need to use --key in some cases?
